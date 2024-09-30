@@ -8,3 +8,9 @@
 <a href="cscf1.html"> click here </a>
 </body>
 </html>
+<html>
+<h1> Python </h1>
+<h2> coding is cool </h2>
+<body> <img src = "python1.jpg" width="333" height="500"> 
+</body>
+</html>
